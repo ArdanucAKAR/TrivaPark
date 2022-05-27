@@ -1,8 +1,8 @@
 # TrivaPark
-![Logo ve Slogan](https://r.resimlink.com/GXDIJ.png)
+![Logo ve Slogan](https://github.com/ArdanucAKAR/TrivaPark/blob/master/trivapark.png)
 
 # Devre Şeması
-![Devre Şeması](https://r.resimlink.com/zfFU9.png)
+![Devre Şeması](https://github.com/ArdanucAKAR/TrivaPark/blob/master/Ekran%20Resmi%202020-05-29%2013.49.42.png)
 
 # Akış Diyagramı
-![Akış Diyagramı](https://r.resimlink.com/F5B.png)
+![Akış Diyagramı](https://github.com/ArdanucAKAR/TrivaPark/blob/master/Ekran%20Resmi%202020-05-29%2010.31.18.png)
